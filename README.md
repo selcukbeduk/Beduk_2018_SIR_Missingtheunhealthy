@@ -1,7 +1,7 @@
 # Beduk_2018_SIR_Missingtheunhealthy
 Code repository for replicating 
 
-Bedük, S. (2018). Missing the unhealthy? Examining empirical validity of material deprivation indices (MDIs) using a partial criterion variable. Social indicators research, 135(1), 91-115. https://doi.org/10.1007/s11205-016-1483-2
+Bedük, S. (2018). Missing the unhealthy? Examining empirical validity of material deprivation indices (MDIs) using a partial criterion variable. _Social Indicators Research_, 135(1), 91-115. https://doi.org/10.1007/s11205-016-1483-2
 
 The analysis uses data from EU-SILC 2009 including register, household and individual files and deprivation module variables. 
 
